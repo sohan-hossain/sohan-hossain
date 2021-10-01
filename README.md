@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sohan-hossain
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Machin Learning
-- 💞️ I’m looking to collaborate on Machine Learning/Python.
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning full stack development.
+- 💞️ I’m looking to collaborate on javascript/react native/web development.
 - 📫 How to reach me by sohan15-9448@diu.edu.bd
 
 <!---
