@@ -1,7 +1,11 @@
 👋 Hi, I’m @sohan-hossain
+
 👀 I’m interested in software engineering.
+
 🌱 I’m currently learning full stack development.
+
 💞️ I’m looking to collaborate on javascript/react native/web development.
+
 📫 How to reach me by sohanhossain3@gmail.com
 
 <!--
